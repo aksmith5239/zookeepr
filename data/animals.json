@@ -117,6 +117,15 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Wally",
+      "species": "walrus",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "social"
+      ],
+      "id": "12"
     }
   ]
 }
